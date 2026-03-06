@@ -1,2 +1,2 @@
 # GEOG-510
-A  repr-for geog-510
+A  repo-for geog-510
